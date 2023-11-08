@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyst.
 - 🌱 I’m currently learning python for data science analysis.
 - 💞️ I’m looking to collaborate on with you.
-- 📫 You can reach me at meru, in Kenya.
+- 📫 You can reach me through this gmail wajosqak@gmail.com.
 
 <!---
 JosephWainaina/JosephWainaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
